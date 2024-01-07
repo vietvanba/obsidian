@@ -1,0 +1,11 @@
+| Name           | Port  |
+| -------------- | ----- |
+| APIGATEWAY     | 8443  |
+| AUTHENTICATION | 8081  |
+| EUREKA         | 8761  |
+| HISTORY        | 8082  |
+| SEARCH         | 8083  |
+| HTTH           | 14445 |
+| MONGODB        | 27017 |
+| POSTGRESQL     | 5432  |
+| MYSQL          | 3306      |
