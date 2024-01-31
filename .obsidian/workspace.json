@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2588a938fa23d82e",
+        "id": "da891c028ff67215",
         "type": "tabs",
         "children": [
           {
-            "id": "35e93ffa3216fb91",
+            "id": "bceb498fbe6c59b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java/2. OOP (Object  Oriented  Programming).md",
+                "file": "12. Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Java/2. OOP (Object  Oriented  Programming).md",
+                "file": "12. Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Java/2. OOP (Object  Oriented  Programming).md",
+                "file": "12. Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Java/2. OOP (Object  Oriented  Programming).md"
+                "file": "12. Git.md"
               }
             }
           }
@@ -148,49 +148,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35e93ffa3216fb91",
+  "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
-    "1. Java/1. Core.md",
-    "1.png",
-    "1. Java/6.MVC.md",
-    "12. Git.md",
-    "2.png",
-    "8. ReactJS/Core.md",
-    "7. Kafka/Kafka.md",
-    "Korea Trip 2024.md",
-    "9. HTML CSS/Core.md",
-    "Chưa đặt tên.canvas",
-    "1. Java/1.1 Java IO.md",
-    "1. Java/4. Hibernate.md",
-    "1. Java/3. Spring boot.md",
-    "0. Project/0.3 Vultr.md",
-    "2. Ubuntu_Linux/3. PM2.md",
-    "11. MySQL/Install Guide.md",
-    "1. Java/9. Certification.md",
-    "13. Docker/Docker compose.md",
-    "12. English/0. Grammarly.md",
-    "4. MongoDB/1. Install Guide.md",
-    "2. Ubuntu_Linux/4. Script.md",
-    "12. English/IELTS/Vocabulary.md",
-    "5. NodeJs/1. Install Guide.md",
-    "1. Java/8. Multiple thread.md",
-    "1. Java/7. Garbage collector.md",
+    "16. Tools/WinToHDD.md",
+    "14. Daily Note/012024/25012024.md",
+    "16. Tools",
+    "14. Daily Note/012024/23012024.md",
+    "1. Java/Java Certification/Chapter 2 Java Building Blocks/1. Creating Objects.md",
+    "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
+    "1. Java/Java Certification/Chapter 1 Welcome to java/4. Understanding Package Declarations and Imports.md",
+    "14. Daily Note/012024/22012024.md",
+    "14. Daily Note/012024/07012024.md",
+    "14. Daily Note/012024",
     "2. Ubuntu_Linux/2. Open Port.md",
-    "Pasted image 20231216132353.png",
-    "Pasted image 20231226215245.png",
-    "Pasted image 20231214115213.png",
+    "14. Daily Note/012024/21012024.md",
+    "14. Daily Note/012024/20012024.md",
+    "14. Daily Note/012024/19012024.md",
+    "0. Project/0.1 Dictionary/RunScript.md",
+    "1. Java/Java Certification/Chapter 2 Java Building Blocks",
     "3. PostgreSQL/1. Install Guide.md",
-    "1. Java/5. Rest và Restful API.md",
-    "present_tense_affirmative_sentence.png",
-    "1. Java/0. Guide",
-    "12. English/IELTS",
-    "0. Project/0.2 HTTH",
-    "0. Project/0.1 Dictionary",
-    "0. Project/0.0 Using port",
-    "1. Java",
-    "7. Kafka",
-    "Untitled",
-    "11. MySQL",
-    "5. NodeJs"
+    "2. Ubuntu_Linux/4. Script.md",
+    "2. Ubuntu_Linux/3. PM2.md",
+    "0. Project/0.0 Using port/Using Port.md",
+    "1. Java/Java Certification/Chapter 1 Welcome to java/5. Code formatting on the Exam.md",
+    "1. Java/Java Certification/Chapter 1 Welcome to java/6. Review question.md",
+    "1. Java/Java Certification/Chapter 1 Welcome to java/3. Java class structure.md",
+    "1. Java/Java Certification/Chapter 1 Welcome to java/2. Identifying benefits of Java.md",
+    "1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
+    "15. Webserver/INFORMATION.md",
+    "15. Webserver",
+    "1. Java/Java Certification/Chapter 1 Welcome to java.md",
+    "1. Java/Java Certification/Chapter 1 Welcome to java",
+    "1. Java/Java Certification/Chưa đặt tên.md",
+    "Pasted image 20240120205233.png",
+    "Pasted image 20240120200441.png",
+    "Pasted image 20240120150258.png",
+    "Pasted image 20240120150035.png",
+    "Pasted image 20240120143423.png",
+    "Pasted image 20240119160634.png",
+    "14. Daily Note/012024/12012024.md",
+    "Pasted image 20231214115213.png",
+    "Important",
+    "1. Java/Java Certification",
+    "Design patterns",
+    "14. Daily Note",
+    "1.png",
+    "2.png",
+    "Chưa đặt tên.canvas",
+    "Pasted image 20231216132353.png",
+    "1. Java/0. Guide"
   ]
 }
