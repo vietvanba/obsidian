@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15. Webserver/INFORMATION.md",
+                "file": "3. PostgreSQL/1. Install Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15. Webserver/INFORMATION.md",
+                "file": "3. PostgreSQL/1. Install Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15. Webserver/INFORMATION.md",
+                "file": "3. PostgreSQL/1. Install Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15. Webserver/INFORMATION.md"
+                "file": "3. PostgreSQL/1. Install Guide.md"
               }
             }
           }
@@ -150,14 +150,22 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
+    "2. Ubuntu_Linux/4. Script.md",
+    "2. Ubuntu_Linux/3. PM2.md",
+    "1. Java/8. Multiple thread.md",
+    "0. Project/0.1 Dictionary/RunScript.md",
+    "Pasted image 20231214115213.png",
+    "0. Project/0.3 Vultr.md",
+    "12. Git.md",
+    "Windows/Key Windows 11 pro.md",
+    "Important/Chìa Khoá Xe Thảo Trong Tủ Gỗ Trong Phòng Ba.md",
+    "17. Tet Holiday 2024/Chưa đặt tên.md",
     "14. Daily Note/012024/25012024.md",
     "14. Daily Note/012024/23012024.md",
+    "15. Webserver/INFORMATION.md",
     "14. Daily Note/012024/22012024.md",
-    "17. Tet Holiday 2024/Chưa đặt tên.md",
     "14. Daily Note/012024/01022024.md",
     "17. Tet Holiday 2024",
-    "Important/Chìa Khoá Xe Thảo Trong Tủ Gỗ Trong Phòng Ba.md",
-    "12. Git.md",
     "16. Tools/WinToHDD.md",
     "16. Tools",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/1. Creating Objects.md",
@@ -169,17 +177,10 @@
     "14. Daily Note/012024/21012024.md",
     "14. Daily Note/012024/20012024.md",
     "14. Daily Note/012024/19012024.md",
-    "0. Project/0.1 Dictionary/RunScript.md",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks",
     "3. PostgreSQL/1. Install Guide.md",
-    "2. Ubuntu_Linux/4. Script.md",
-    "2. Ubuntu_Linux/3. PM2.md",
     "0. Project/0.0 Using port/Using Port.md",
     "1. Java/Java Certification/Chapter 1 Welcome to java/5. Code formatting on the Exam.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/6. Review question.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/3. Java class structure.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/2. Identifying benefits of Java.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
     "15. Webserver",
     "1. Java/Java Certification/Chapter 1 Welcome to java",
     "Pasted image 20240120205233.png",
@@ -188,7 +189,6 @@
     "Pasted image 20240120150035.png",
     "Pasted image 20240120143423.png",
     "Pasted image 20240119160634.png",
-    "Pasted image 20231214115213.png",
     "Important",
     "1. Java/Java Certification",
     "Design patterns",
