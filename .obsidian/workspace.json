@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. Git.md",
+                "file": "15. Webserver/INFORMATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12. Git.md",
+                "file": "15. Webserver/INFORMATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12. Git.md",
+                "file": "15. Webserver/INFORMATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12. Git.md"
+                "file": "15. Webserver/INFORMATION.md"
               }
             }
           }
@@ -150,14 +150,19 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
-    "16. Tools/WinToHDD.md",
     "14. Daily Note/012024/25012024.md",
-    "16. Tools",
     "14. Daily Note/012024/23012024.md",
+    "14. Daily Note/012024/22012024.md",
+    "17. Tet Holiday 2024/Chưa đặt tên.md",
+    "14. Daily Note/012024/01022024.md",
+    "17. Tet Holiday 2024",
+    "Important/Chìa Khoá Xe Thảo Trong Tủ Gỗ Trong Phòng Ba.md",
+    "12. Git.md",
+    "16. Tools/WinToHDD.md",
+    "16. Tools",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/1. Creating Objects.md",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
     "1. Java/Java Certification/Chapter 1 Welcome to java/4. Understanding Package Declarations and Imports.md",
-    "14. Daily Note/012024/22012024.md",
     "14. Daily Note/012024/07012024.md",
     "14. Daily Note/012024",
     "2. Ubuntu_Linux/2. Open Port.md",
@@ -175,18 +180,14 @@
     "1. Java/Java Certification/Chapter 1 Welcome to java/3. Java class structure.md",
     "1. Java/Java Certification/Chapter 1 Welcome to java/2. Identifying benefits of Java.md",
     "1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
-    "15. Webserver/INFORMATION.md",
     "15. Webserver",
-    "1. Java/Java Certification/Chapter 1 Welcome to java.md",
     "1. Java/Java Certification/Chapter 1 Welcome to java",
-    "1. Java/Java Certification/Chưa đặt tên.md",
     "Pasted image 20240120205233.png",
     "Pasted image 20240120200441.png",
     "Pasted image 20240120150258.png",
     "Pasted image 20240120150035.png",
     "Pasted image 20240120143423.png",
     "Pasted image 20240119160634.png",
-    "14. Daily Note/012024/12012024.md",
     "Pasted image 20231214115213.png",
     "Important",
     "1. Java/Java Certification",
@@ -195,7 +196,6 @@
     "1.png",
     "2.png",
     "Chưa đặt tên.canvas",
-    "Pasted image 20231216132353.png",
-    "1. Java/0. Guide"
+    "Pasted image 20231216132353.png"
   ]
 }

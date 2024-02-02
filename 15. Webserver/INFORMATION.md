@@ -7,13 +7,13 @@ vie
 ```
 
 ```password
-mx678vie`
+1
 ```
 
 ```local
-vie@192.168.1.42
+ssh vie@192.168.1.42
 ```
 
 ```noip
-vie@vanbaviet.ddns.net
+ssh vie@vanbaviet.ddns.net
 ```
