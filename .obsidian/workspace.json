@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17. Tet Holiday 2024/Note.md",
+                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17. Tet Holiday 2024/Note.md",
+                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17. Tet Holiday 2024/Note.md",
+                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17. Tet Holiday 2024/Note.md"
+                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md"
               }
             }
+          },
+          {
+            "id": "8a28658170ad5c33",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bceb498fbe6c59b6",
+  "active": "8a28658170ad5c33",
   "lastOpenFiles": [
-    "Important/Chìa Khoá Xe Thảo Trong Tủ Gỗ Trong Phòng Ba.md",
     "17. Tet Holiday 2024/Note.md",
+    "Important/Chìa Khoá Xe Thảo Trong Tủ Gỗ Trong Phòng Ba.md",
     "Windows/Key Windows 11 pro.md",
     "1.png",
     "2.png",
