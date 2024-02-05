@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/3. Declaring Variables.md",
+                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/3. Declaring Variables.md",
+                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/3. Declaring Variables.md",
+                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/3. Declaring Variables.md"
+                "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
-    "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/3. Declaring Variables.md",
+    "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
+    "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/1. Creating Objects.md",
     "1. Java/1. Core.md",
     "1. Java/Java Certification/Chapter 1 Welcome to java/6. Review question.md",
@@ -190,7 +191,6 @@
     "14. Daily Note/012024/23012024.md",
     "15. Webserver/INFORMATION.md",
     "14. Daily Note/012024/22012024.md",
-    "14. Daily Note/012024/01022024.md",
     "17. Tet Holiday 2024",
     "16. Tools",
     "14. Daily Note/012024",
