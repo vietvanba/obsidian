@@ -15,7 +15,7 @@
               "state": {
                 "file": "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
-    "1. Java/Java Certification/Chapter 2 Java Building Blocks/3. Declaring Variables.md",
-    "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
+    "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
+    "1. Java/Java Certification/Chapter 2 Java Building Blocks/3. Declaring Variables.md",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/1. Creating Objects.md",
     "1. Java/1. Core.md",
     "1. Java/Java Certification/Chapter 1 Welcome to java/6. Review question.md",
