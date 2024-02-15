@@ -1,3 +1,3 @@
-- [ ] Mua rau cau
-- [ ] Xông đất nhà chị
-- [ ] 
+- [ ] 1 truyền thống chỉ đậu đỏ
+- [ ] Trà dứa đác thơm
+- [ ] Hồng trà dưa lưới ko có mua trà vãi
