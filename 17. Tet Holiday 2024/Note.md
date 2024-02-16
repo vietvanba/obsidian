@@ -1,3 +1,7 @@
-- [ ] 1 truyền thống chỉ đậu đỏ
-- [ ] Trà dứa đác thơm
-- [ ] Hồng trà dưa lưới ko có mua trà vãi
+- [x] Vé xe em lên 280k
+- [x] Cọc home 280k
+- [ ] Mang bột giặt 
+- [ ] Mang nước xả
+- [ ] Mang chống muỗi
+- [ ] Giặt Balo
+- [ ] Mang giấy vs
