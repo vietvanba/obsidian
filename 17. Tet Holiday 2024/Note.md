@@ -1,7 +1,11 @@
 - [x] Vé xe em lên 280k
 - [x] Cọc home 280k
-- [ ] Mang bột giặt 
-- [ ] Mang nước xả
-- [ ] Mang chống muỗi
+- [x] Mang bột giặt 
+- [x] Mang chống muỗi
 - [ ] Giặt Balo
-- [ ] Mang giấy vs
+- [x] Mang giấy vs
+- [x] Mang ly
+- [x] Mang bao lì xì
+- [x] Mua nước xả sữa tắm bịch
+- [x] Máy ép tóc cho e meow
+- [x] Móc

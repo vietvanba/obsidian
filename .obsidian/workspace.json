@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18. Đi thoi/Phan Thiết.md",
+                "file": "2. Ubuntu_Linux/3. PM2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18. Đi thoi/Phan Thiết.md",
+                "file": "2. Ubuntu_Linux/3. PM2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18. Đi thoi/Phan Thiết.md",
+                "file": "2. Ubuntu_Linux/3. PM2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18. Đi thoi/Phan Thiết.md"
+                "file": "2. Ubuntu_Linux/3. PM2.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
-    "17. Tet Holiday 2024/Note.md",
+    "0. Project/0.1 Dictionary/RunScript.md",
+    "5. NodeJs/1. Install Guide.md",
+    "2. Ubuntu_Linux/1. Set Password root.md",
     "18. Đi thoi/Phan Thiết.md",
+    "17. Tet Holiday 2024/Note.md",
     "18. Đi thoi",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
     "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
@@ -187,11 +190,8 @@
     "2. Ubuntu_Linux/4. Script.md",
     "2. Ubuntu_Linux/3. PM2.md",
     "1. Java/8. Multiple thread.md",
-    "0. Project/0.1 Dictionary/RunScript.md",
     "0. Project/0.3 Vultr.md",
     "14. Daily Note/012024/25012024.md",
-    "14. Daily Note/012024/23012024.md",
-    "15. Webserver/INFORMATION.md",
     "17. Tet Holiday 2024",
     "16. Tools",
     "14. Daily Note/012024",
