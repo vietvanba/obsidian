@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Ubuntu_Linux/3. PM2.md",
+                "file": "12. Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Ubuntu_Linux/3. PM2.md",
+                "file": "12. Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Ubuntu_Linux/3. PM2.md",
+                "file": "12. Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Ubuntu_Linux/3. PM2.md"
+                "file": "12. Git.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
+    "2. Ubuntu_Linux/3. PM2.md",
     "0. Project/0.1 Dictionary/RunScript.md",
     "5. NodeJs/1. Install Guide.md",
     "2. Ubuntu_Linux/1. Set Password root.md",
@@ -188,7 +189,6 @@
     "16. Tools/WinToHDD.md",
     "3. PostgreSQL/1. Install Guide.md",
     "2. Ubuntu_Linux/4. Script.md",
-    "2. Ubuntu_Linux/3. PM2.md",
     "1. Java/8. Multiple thread.md",
     "0. Project/0.3 Vultr.md",
     "14. Daily Note/012024/25012024.md",
