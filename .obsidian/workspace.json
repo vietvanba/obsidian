@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. Git.md",
+                "file": "CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12. Git.md",
+                "file": "CSS/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12. Git.md",
+                "file": "CSS/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12. Git.md"
+                "file": "CSS/CSS.md"
               }
             }
           },
@@ -158,6 +158,10 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
+    "12. Git.md",
+    "CSS/CSS.md",
+    "CSS",
+    "Untitled",
     "2. Ubuntu_Linux/3. PM2.md",
     "0. Project/0.1 Dictionary/RunScript.md",
     "5. NodeJs/1. Install Guide.md",
@@ -185,13 +189,11 @@
     "Windows/Key Windows 11 pro.md",
     "1.png",
     "2.png",
-    "12. Git.md",
     "16. Tools/WinToHDD.md",
     "3. PostgreSQL/1. Install Guide.md",
     "2. Ubuntu_Linux/4. Script.md",
     "1. Java/8. Multiple thread.md",
     "0. Project/0.3 Vultr.md",
-    "14. Daily Note/012024/25012024.md",
     "17. Tet Holiday 2024",
     "16. Tools",
     "14. Daily Note/012024",
@@ -202,8 +204,6 @@
     "Pasted image 20240120200441.png",
     "Pasted image 20240120150258.png",
     "Important",
-    "1. Java/Java Certification",
-    "Design patterns",
     "Chưa đặt tên.canvas"
   ]
 }

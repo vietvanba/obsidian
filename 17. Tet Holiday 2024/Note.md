@@ -1,5 +1,5 @@
-- [x] Vé xe em lên 280k
-- [x] Cọc home 280k
+- [ ] Vé xe em lên 280k em trả
+- [ ] Cọc home 280k
 - [x] Mang bột giặt 
 - [x] Mang chống muỗi
 - [ ] Giặt Balo
@@ -9,3 +9,6 @@
 - [x] Mua nước xả sữa tắm bịch
 - [x] Máy ép tóc cho e meow
 - [x] Móc
+- [ ] Home 840k
+- [ ] mì cay 120
+- [ ] Nành bò 30
