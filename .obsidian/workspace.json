@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS.md",
+                "file": "0. Family/1. Míc yêu/Trọ 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d27ae331d4b06e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "44f1b7517425ddf5",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/CSS.md",
+                "file": "0. Family/1. Míc yêu/Trọ 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/CSS.md",
+                "file": "0. Family/1. Míc yêu/Trọ 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/CSS.md"
+                "file": "0. Family/1. Míc yêu/Trọ 2024.md"
               }
             }
           },
@@ -142,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,52 +171,52 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
-    "12. Git.md",
-    "CSS/CSS.md",
-    "CSS",
-    "Untitled",
-    "2. Ubuntu_Linux/3. PM2.md",
-    "0. Project/0.1 Dictionary/RunScript.md",
-    "5. NodeJs/1. Install Guide.md",
-    "2. Ubuntu_Linux/1. Set Password root.md",
-    "18. Đi thoi/Phan Thiết.md",
+    "6. English/TOEIC 2024/RC/Test 2/Part 5.md",
+    "6. English/TOEIC 2024/RC/Test 2/0. Vocabulary.md",
+    "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
+    "6. English/0. Grammarly.md",
+    "6. English/1. Present tenses.md",
+    "6. English/TOEIC 2024/RC/0. Grammarly",
+    "6. English/IELTS/Vocabulary.md",
+    "6. English/TOEIC 2024/RC/Test 2",
+    "6. English/TOEIC 2024/RC",
+    "6. English/TOEIC 2024",
+    "4. Server/3. Nginx/Install guide.md",
+    "3. Database/1. PostgreSQL/1. Install Guide.md",
+    "3. Database/3. MongoDB/1. Install Guide.md",
+    "3. Database/4. ElasticSearch/1. Install Guide.md",
+    "3. Database/6. MySQL/Install Guide.md",
+    "3. Database/5. Kafka/Kafka.md",
+    "0. Family/0. Nhà/Chìa Khoá Xe Thảo Trong Tủ Gỗ Trong Phòng Ba.md",
+    "4. Server/2. Docker/Docker compose.md",
+    "5.  Git/0. Git.md",
+    "4. Server",
+    "2. Frontend",
+    "1. Backend",
+    "3. Database/2. MS SQL",
+    "3. Database",
+    "2. Frontend/2. HTML CSS/Core.md",
+    "2. Frontend/1. ReactJS/Core.md",
+    "4. Server/0. Linux Home Server Details.md",
+    "15. Webserver/Nginx/Chưa đặt tên.md",
+    "1. Backend/0. Project/0.0 Using port/Using Port.md",
+    "4. Server/3. Nginx",
+    "15. Webserver/Chưa đặt tên.md",
+    "1. Backend/0. Project/0.1 Dictionary/RunScript.md",
+    "Tools/WinToHDD.md",
+    "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/6. Review question.md",
     "17. Tet Holiday 2024/Note.md",
-    "18. Đi thoi",
-    "1. Java/Java Certification/Chapter 2 Java Building Blocks/4. Initializing Variables.md",
-    "1. Java/Java Certification/Chapter 2 Java Building Blocks/2. Understanding Data Types.md",
-    "1. Java/Java Certification/Chapter 2 Java Building Blocks/3. Declaring Variables.md",
-    "1. Java/Java Certification/Chapter 2 Java Building Blocks/1. Creating Objects.md",
-    "1. Java/1. Core.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/6. Review question.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/5. Code formatting on the Exam.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/4. Understanding Package Declarations and Imports.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/3. Java class structure.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/2. Identifying benefits of Java.md",
-    "1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
-    "Pasted image 20240204155009.png",
-    "Pasted image 20231214115213.png",
-    "Pasted image 20231216132353.png",
-    "Pasted image 20240203215137.png",
-    "Pasted image 20240203215111.png",
-    "Important/Chìa Khoá Xe Thảo Trong Tủ Gỗ Trong Phòng Ba.md",
-    "Windows/Key Windows 11 pro.md",
-    "1.png",
-    "2.png",
-    "16. Tools/WinToHDD.md",
-    "3. PostgreSQL/1. Install Guide.md",
-    "2. Ubuntu_Linux/4. Script.md",
-    "1. Java/8. Multiple thread.md",
-    "0. Project/0.3 Vultr.md",
-    "17. Tet Holiday 2024",
-    "16. Tools",
-    "14. Daily Note/012024",
-    "1. Java/Java Certification/Chapter 2 Java Building Blocks",
-    "15. Webserver",
-    "1. Java/Java Certification/Chapter 1 Welcome to java",
-    "Pasted image 20240120205233.png",
-    "Pasted image 20240120200441.png",
-    "Pasted image 20240120150258.png",
-    "Important",
+    "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/5. Code formatting on the Exam.md",
+    "Public/Pasted image 20240119160634.png",
+    "Public/1.png",
+    "Public/present_tense_affirmative_sentence.png",
+    "Public/Pasted image 20240203215137.png",
+    "Public/Pasted image 20240204155009.png",
+    "Public/Pasted image 20231214115213.png",
+    "Public/Pasted image 20231216132353.png",
+    "Public/Pasted image 20240203215111.png",
+    "Public/2.png",
+    "Public/Pasted image 20231226215245.png",
     "Chưa đặt tên.canvas"
   ]
 }
