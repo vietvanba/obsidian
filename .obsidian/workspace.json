@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Family/1. Míc yêu/Trọ 2024.md",
+                "file": "1. Backend/Exception in java.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Family/1. Míc yêu/Trọ 2024.md",
+                "file": "1. Backend/Exception in java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Family/1. Míc yêu/Trọ 2024.md",
+                "file": "1. Backend/Exception in java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Family/1. Míc yêu/Trọ 2024.md"
+                "file": "1. Backend/Exception in java.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
+    "0. Family/1. Míc yêu/Trọ 2024.md",
+    "1. Backend/Exception in java.md",
     "6. English/TOEIC 2024/RC/Test 2/Part 5.md",
     "6. English/TOEIC 2024/RC/Test 2/0. Vocabulary.md",
     "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
@@ -205,8 +207,6 @@
     "1. Backend/0. Project/0.1 Dictionary/RunScript.md",
     "Tools/WinToHDD.md",
     "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/6. Review question.md",
-    "17. Tet Holiday 2024/Note.md",
-    "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/5. Code formatting on the Exam.md",
     "Public/Pasted image 20240119160634.png",
     "Public/1.png",
     "Public/present_tense_affirmative_sentence.png",
