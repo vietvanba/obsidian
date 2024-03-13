@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md"
+                "file": "1. Backend/1. Java/1. Core.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
-    "1. Backend/3. Spring/Spring Framework.md",
     "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
+    "1. Backend/3. Spring/Spring Framework.md",
     "1. Backend/1. Java/9. Exception in java.md",
     "1. Backend/3. Spring",
     "1. Backend/1. Java/1. Core.md",
