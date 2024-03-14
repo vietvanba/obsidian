@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md"
+                "file": "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md"
               }
             }
           },
@@ -171,15 +171,17 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
+    "Public/Pasted image 20240314222659.png",
+    "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
+    "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
+    "1. Backend/1. Java/1. Core.md",
     "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
     "1. Backend/3. Spring/Spring Framework.md",
     "1. Backend/1. Java/9. Exception in java.md",
     "1. Backend/3. Spring",
-    "1. Backend/1. Java/1. Core.md",
     "0. Family/1. Míc yêu/Trọ 2024.md",
     "6. English/TOEIC 2024/RC/Test 2/Part 5.md",
     "6. English/TOEIC 2024/RC/Test 2/0. Vocabulary.md",
-    "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
     "6. English/0. Grammarly.md",
     "6. English/1. Present tenses.md",
     "6. English/TOEIC 2024/RC/0. Grammarly",
@@ -205,8 +207,6 @@
     "2. Frontend/1. ReactJS/Core.md",
     "4. Server/0. Linux Home Server Details.md",
     "15. Webserver/Nginx/Chưa đặt tên.md",
-    "1. Backend/0. Project/0.0 Using port/Using Port.md",
-    "15. Webserver/Chưa đặt tên.md",
     "Public/Pasted image 20240119160634.png",
     "Public/1.png",
     "Public/present_tense_affirmative_sentence.png",
@@ -216,7 +216,6 @@
     "Public/Pasted image 20231216132353.png",
     "Public/Pasted image 20240203215111.png",
     "Public/2.png",
-    "Public/Pasted image 20231226215245.png",
     "Chưa đặt tên.canvas"
   ]
 }
