@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
+                "file": "1. Backend/1. Java/Stateful and Stateless.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
+                "file": "1. Backend/1. Java/Stateful and Stateless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
+                "file": "1. Backend/1. Java/Stateful and Stateless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md"
+                "file": "1. Backend/1. Java/Stateful and Stateless.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
+    "1. Backend/1. Java/11. Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
+    "1. Backend/1. Java/Stateful and Stateless.md",
     "Public/Pasted image 20240314222659.png",
-    "1. Backend/1. Java/Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
     "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
     "1. Backend/1. Java/1. Core.md",
     "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
