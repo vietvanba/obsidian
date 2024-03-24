@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md"
+                "file": "1. Backend/1. Java/1. Core.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
+    "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
     "1. Backend/3. Spring/Spring Framework.md",
     "1. Backend/1. Java/1. Core.md",
     "1. Backend/1. Java/7. Garbage collector.md",
@@ -202,7 +203,6 @@
     "4. Server/3. Nginx/Install guide.md",
     "3. Database/1. PostgreSQL/1. Install Guide.md",
     "3. Database/3. MongoDB/1. Install Guide.md",
-    "3. Database/4. ElasticSearch/1. Install Guide.md",
     "4. Server",
     "2. Frontend",
     "1. Backend",
