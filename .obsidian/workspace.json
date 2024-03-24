@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md"
+                "file": "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md"
               }
             }
           },
@@ -171,14 +171,23 @@
   },
   "active": "bceb498fbe6c59b6",
   "lastOpenFiles": [
+    "1. Backend/3. Spring/Spring Framework.md",
+    "1. Backend/1. Java/1. Core.md",
+    "1. Backend/1. Java/7. Garbage collector.md",
+    "1. Backend/1. Java/6.MVC.md",
+    "2. Frontend/1. ReactJS/Core.md",
     "1. Backend/1. Java/Stateful and Stateless.md",
     "1. Backend/1. Java/11. Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
+    "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
+    "1. Backend/1. Java/9. Exception in java.md",
+    "1. Backend/1. Java/8. Multiple thread.md",
+    "1. Backend/1. Java/5. Rest và Restful API.md",
+    "1. Backend/1. Java/4. Hibernate.md",
+    "1. Backend/1. Java/3. Spring boot.md",
+    "1. Backend/1. Java/2. OOP (Object  Oriented  Programming).md",
+    "1. Backend/1. Java/1.1 Java IO.md",
     "Public/Pasted image 20240314222659.png",
     "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
-    "1. Backend/1. Java/1. Core.md",
-    "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
-    "1. Backend/3. Spring/Spring Framework.md",
-    "1. Backend/1. Java/9. Exception in java.md",
     "1. Backend/3. Spring",
     "0. Family/1. Míc yêu/Trọ 2024.md",
     "6. English/TOEIC 2024/RC/Test 2/Part 5.md",
@@ -194,20 +203,11 @@
     "3. Database/1. PostgreSQL/1. Install Guide.md",
     "3. Database/3. MongoDB/1. Install Guide.md",
     "3. Database/4. ElasticSearch/1. Install Guide.md",
-    "3. Database/6. MySQL/Install Guide.md",
-    "3. Database/5. Kafka/Kafka.md",
-    "0. Family/0. Nhà/Chìa Khoá Xe Thảo Trong Tủ Gỗ Trong Phòng Ba.md",
-    "4. Server/2. Docker/Docker compose.md",
-    "5.  Git/0. Git.md",
     "4. Server",
     "2. Frontend",
     "1. Backend",
     "3. Database/2. MS SQL",
     "3. Database",
-    "2. Frontend/2. HTML CSS/Core.md",
-    "2. Frontend/1. ReactJS/Core.md",
-    "4. Server/0. Linux Home Server Details.md",
-    "15. Webserver/Nginx/Chưa đặt tên.md",
     "Public/Pasted image 20240119160634.png",
     "Public/1.png",
     "Public/present_tense_affirmative_sentence.png",
