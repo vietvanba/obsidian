@@ -1,0 +1,3 @@
+- [ ] docker version (show version detail)
+- [ ] docker -v (same as "docker version" but less information)
+- [ ] docker info (show the summary of docker)
