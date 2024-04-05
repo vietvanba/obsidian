@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Database/1. PostgreSQL/1. Install Guide.md"
+                "file": "README.md.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "d27ae331d4b06e36",
   "lastOpenFiles": [
+    "3. Database/1. PostgreSQL/1. Install Guide.md",
     "4. Server/1. Ubuntu_Linux/1. Set Password root.md",
     "README.md.md",
     "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",

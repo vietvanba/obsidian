@@ -15,6 +15,7 @@ Backend:
 >- [*] Spring boot
 >- [*] Spring security
 >- [*] Microservices
+>- [*] Spring validation
 
 Webserver:
 >- [*] Nginx
