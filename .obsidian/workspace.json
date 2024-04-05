@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "3. Database/1. PostgreSQL/1. Install Guide.md"
               }
             }
           },
@@ -181,13 +181,13 @@
   },
   "active": "d27ae331d4b06e36",
   "lastOpenFiles": [
+    "4. Server/1. Ubuntu_Linux/1. Set Password root.md",
+    "README.md.md",
     "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
     "4. Server/2. Docker/Common command line.md",
     "Chưa đặt tên.canvas",
-    "README.md.md",
     "4. Server/2. Docker/Docker Desktop.md",
     "4. Server/2. Docker/Docker compose.md",
-    "4. Server/1. Ubuntu_Linux/1. Set Password root.md",
     "4. Server/1. Ubuntu_Linux/2. Open Port.md",
     "1. Backend/1. Java/1. Core.md",
     "1. Backend/1. Java/Java Certification/Chapter 1 Welcome to java/1. Java Environment.md",
