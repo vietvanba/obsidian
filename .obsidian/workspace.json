@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "3. Database/1. PostgreSQL/1. Install Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "3. Database/1. PostgreSQL/1. Install Guide.md"
               }
             }
           },
@@ -179,11 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d27ae331d4b06e36",
+  "active": "ecea93bf675181dd",
   "lastOpenFiles": [
+    "5.  Git/0. Git.md",
+    "README.md.md",
     "3. Database/1. PostgreSQL/1. Install Guide.md",
     "4. Server/1. Ubuntu_Linux/1. Set Password root.md",
-    "README.md.md",
     "6. English/TOEIC 2024/RC/0. Grammarly/Part 5.md",
     "4. Server/2. Docker/Common command line.md",
     "Chưa đặt tên.canvas",
@@ -209,7 +210,6 @@
     "Public/Pasted image 20240314222659.png",
     "1. Backend/3. Spring",
     "0. Family/1. Míc yêu/Trọ 2024.md",
-    "6. English/TOEIC 2024/RC/Test 2/Part 5.md",
     "6. English/TOEIC 2024/RC/0. Grammarly",
     "6. English/TOEIC 2024/RC/Test 2",
     "6. English/TOEIC 2024/RC",
