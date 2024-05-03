@@ -35,9 +35,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.  Git/0. Git.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.  Git/0. Git.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.  Git/0. Git.md",
+                "file": "1. Backend/1. Java/1. Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.  Git/0. Git.md"
+                "file": "1. Backend/1. Java/1. Core.md"
               }
             }
           },
@@ -181,20 +181,21 @@
   },
   "active": "d27ae331d4b06e36",
   "lastOpenFiles": [
+    "6. English/IELTS/Vocabulary.md",
+    "6. English/IELTS/Pronunciation.md",
+    "4. Server/1. Ubuntu_Linux/3. PM2.md",
+    "4. Server/1. Ubuntu_Linux/4. Script.md",
+    "4. Server/1. Ubuntu_Linux/2. Open Port.md",
+    "4. Server/1. Ubuntu_Linux/1. Set Password root.md",
+    "5.  Git/0. Git.md",
     "4. Server/0. Linux Home Server Details.md",
     "4. Server/3. Nginx/Install guide.md",
     "4. Server/2. Docker/Docker Desktop.md",
     "4. Server/2. Docker/Docker compose.md",
     "4. Server/2. Docker/Common command line.md",
-    "4. Server/1. Ubuntu_Linux/4. Script.md",
-    "4. Server/1. Ubuntu_Linux/3. PM2.md",
-    "4. Server/1. Ubuntu_Linux/2. Open Port.md",
-    "4. Server/1. Ubuntu_Linux/1. Set Password root.md",
     "Public/1.png",
     "6. English/1. Present tenses.md",
     "6. English/Introduce my self.md",
-    "6. English/IELTS/Vocabulary.md",
-    "6. English/IELTS/Pronunciation.md",
     "1. Backend/1. Java/Stateful and Stateless.md",
     "1. Backend/1. Java/11. Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
     "1. Backend/1. Java/9. Exception in java.md",
@@ -207,7 +208,6 @@
     "1. Backend/1. Java/4. Hibernate.md",
     "1. Backend/1. Java/3. Spring boot.md",
     "1. Backend/1. Java/2. OOP (Object  Oriented  Programming).md",
-    "1. Backend/1. Java/1.1 Java IO.md",
     "Chưa đặt tên.canvas",
     "Public/Pasted image 20240314222659.png",
     "1. Backend/3. Spring",
