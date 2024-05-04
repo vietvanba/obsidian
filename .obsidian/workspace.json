@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "6. English/IELTS/Vocabulary.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "6. English/IELTS/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md",
+                "file": "6. English/IELTS/Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Backend/1. Java/1. Core.md"
+                "file": "6. English/IELTS/Vocabulary.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "d27ae331d4b06e36",
   "lastOpenFiles": [
+    "1. Backend/1. Java/1. Core.md",
     "6. English/IELTS/Vocabulary.md",
     "6. English/IELTS/Pronunciation.md",
     "4. Server/1. Ubuntu_Linux/3. PM2.md",
@@ -207,7 +208,6 @@
     "1. Backend/1. Java/5. Rest và Restful API.md",
     "1. Backend/1. Java/4. Hibernate.md",
     "1. Backend/1. Java/3. Spring boot.md",
-    "1. Backend/1. Java/2. OOP (Object  Oriented  Programming).md",
     "Chưa đặt tên.canvas",
     "Public/Pasted image 20240314222659.png",
     "1. Backend/3. Spring",

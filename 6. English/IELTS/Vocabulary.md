@@ -1,3 +1,5 @@
+---
+
 | Vocabulary    |    Translate    |
 | ------------- |:---------------:|
 | Consist       |     Bao Gồm     |
@@ -12,6 +14,3 @@
 | Identifying   |    nhận dạng    |
 | instantiated  |    khởi tạo     |
 | procedural    |     thủ tục     |
-|               |                 |
-
-
