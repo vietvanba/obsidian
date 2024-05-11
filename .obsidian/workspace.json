@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. English/IELTS/Vocabulary.md",
+                "file": "5.  Git/0. Git.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. English/IELTS/Vocabulary.md",
+                "file": "5.  Git/0. Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. English/IELTS/Vocabulary.md",
+                "file": "5.  Git/0. Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. English/IELTS/Vocabulary.md"
+                "file": "5.  Git/0. Git.md"
               }
             }
           },
@@ -169,20 +169,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Mở bộ chuyển đổi nhanh": false,
-      "graph:Mở xem biểu đồ": false,
-      "canvas:Tạo bảng mới": false,
-      "daily-notes:Mở ghi chú hôm nay": false,
-      "templates:Chèn mẫu": false,
-      "command-palette:Mở khay lệnh": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "remotely-save:Remotely Save": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d27ae331d4b06e36",
   "lastOpenFiles": [
-    "1. Backend/1. Java/1. Core.md",
     "6. English/IELTS/Vocabulary.md",
+    "1. Backend/1. Java/1. Core.md",
     "6. English/IELTS/Pronunciation.md",
     "4. Server/1. Ubuntu_Linux/3. PM2.md",
     "4. Server/1. Ubuntu_Linux/4. Script.md",
