@@ -35,9 +35,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.  Git/0. Git.md",
+                "file": "README.md.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.  Git/0. Git.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.  Git/0. Git.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.  Git/0. Git.md"
+                "file": "README.md.md"
               }
             }
           },
@@ -181,6 +181,14 @@
   },
   "active": "d27ae331d4b06e36",
   "lastOpenFiles": [
+    "Chưa đặt tên.canvas",
+    "README.md.md",
+    "Tools/WinToHDD.md",
+    "Public/Pasted image 20231214115213.png",
+    "6. English/Introduce my self.md",
+    "6. English/1. Present tenses.md",
+    "6. English/0. Grammarly.md",
+    "5.  Git/0. Git.md",
     "6. English/IELTS/Vocabulary.md",
     "1. Backend/1. Java/1. Core.md",
     "6. English/IELTS/Pronunciation.md",
@@ -188,27 +196,19 @@
     "4. Server/1. Ubuntu_Linux/4. Script.md",
     "4. Server/1. Ubuntu_Linux/2. Open Port.md",
     "4. Server/1. Ubuntu_Linux/1. Set Password root.md",
-    "5.  Git/0. Git.md",
     "4. Server/0. Linux Home Server Details.md",
     "4. Server/3. Nginx/Install guide.md",
     "4. Server/2. Docker/Docker Desktop.md",
     "4. Server/2. Docker/Docker compose.md",
     "4. Server/2. Docker/Common command line.md",
     "Public/1.png",
-    "6. English/1. Present tenses.md",
-    "6. English/Introduce my self.md",
     "1. Backend/1. Java/Stateful and Stateless.md",
     "1. Backend/1. Java/11. Spring IoC Container, Bean, ApplicationContext, Spring Bean Life Cycle and Component scan.md",
     "1. Backend/1. Java/9. Exception in java.md",
     "1. Backend/1. Java/7. Garbage collector.md",
-    "6. English/0. Grammarly.md",
     "1. Backend/1. Java/10. tight-coupling và cách loosely coupled.md",
     "1. Backend/1. Java/8. Multiple thread.md",
     "1. Backend/1. Java/6.MVC.md",
-    "1. Backend/1. Java/5. Rest và Restful API.md",
-    "1. Backend/1. Java/4. Hibernate.md",
-    "1. Backend/1. Java/3. Spring boot.md",
-    "Chưa đặt tên.canvas",
     "Public/Pasted image 20240314222659.png",
     "1. Backend/3. Spring",
     "6. English/TOEIC 2024/RC/0. Grammarly",
@@ -224,7 +224,6 @@
     "Public/present_tense_affirmative_sentence.png",
     "Public/Pasted image 20240203215137.png",
     "Public/Pasted image 20240204155009.png",
-    "Public/Pasted image 20231214115213.png",
     "Public/Pasted image 20231216132353.png",
     "Public/Pasted image 20240203215111.png",
     "Public/2.png"
